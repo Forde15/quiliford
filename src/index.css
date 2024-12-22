@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+a.active{
+    @apply text-yellow-400 border-yellow-300
+}
